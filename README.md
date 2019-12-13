@@ -1,1 +1,1 @@
-# bootstrap-slider-master
+# bootstrap-slider
